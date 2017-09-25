@@ -12,3 +12,5 @@ The goals / steps of this project are the following:
 
 •	Summarize the results with a written report
 
+Details please see report.pdf
+
